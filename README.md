@@ -89,7 +89,7 @@ Participants are **STRICTLY NOT ALLOWED** to obtain prices from the internet, ex
 - Web scraping product prices from e-commerce websites
 - Using APIs to fetch current market prices
 - Manual price lookup from online sources
-- Using any external pricing databases or services
+- Using any external pricing databases or services 
 
 **Enforcement:**
 - All submitted approaches, methodologies, and code pipelines will be thoroughly reviewed and verified

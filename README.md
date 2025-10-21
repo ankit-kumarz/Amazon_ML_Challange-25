@@ -54,7 +54,7 @@ Note: Make sure to output a prediction for all sample IDs. If you have less/more
 ### Evaluation Criteria:
 
 Submissions are evaluated using **Symmetric Mean Absolute Percentage Error (SMAPE)**: A statistical measure that expresses the relative difference between predicted and actual values as a percentage, while treating positive and negative errors equally.
-
+ 
 **Formula:**
 ```
 SMAPE = (1/n) * Σ |predicted_price - actual_price| / ((|actual_price| + |predicted_price|)/2)

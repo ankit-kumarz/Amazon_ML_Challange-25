@@ -22,7 +22,7 @@ The dataset consists of the following columns:
 
 ### Output Format:
 
-The output file should be a CSV with 2 columns:
+The output file should be a CSV with 2 columns: 
 
 1. **sample_id:** The unique identifier of the data sample. Note the ID should match the test record sample_id.
 2. **price:** A float value representing the predicted price of the product.

@@ -98,7 +98,7 @@ Participants are **STRICTLY NOT ALLOWED** to obtain prices from the internet, ex
 **Fair Play:** This challenge is designed to test your machine learning and data science skills using only the provided training data. External price lookup defeats the purpose of the challenge.
 
 
-### Tips for Success:
+### Tips for Success: 
 
 - Consider both textual features (catalog_content) and visual features (product images)
 - Explore feature engineering techniques for text and image data

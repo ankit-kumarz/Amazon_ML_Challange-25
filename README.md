@@ -81,7 +81,7 @@ SMAPE = |100-120| / ((|100| + |120|)/2) * 100% = 18.18%
    - Any other relevant information about the approach
    Note: A sample template for this documentation is provided in Documentation_template.md
 
-### **Academic Integrity and Fair Play:**
+### **Academic Integrity and Fair Play:** 
 
 **⚠️ STRICTLY PROHIBITED: External Price Lookup**
 

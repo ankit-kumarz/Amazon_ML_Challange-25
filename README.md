@@ -36,7 +36,7 @@ Note: Make sure to output a prediction for all sample IDs. If you have less/more
 1. **src/utils.py:** Contains helper functions for downloading images from the image_link. You may need to retry a few times to download all images due to possible throttling issues.
 2. **sample_code.py:** Sample dummy code that can generate an output file in the given format. Usage of this file is optional.
 
-*Dataset files*
+*Dataset files* 
   
 1. **dataset/train.csv:** Training file with labels (`price`).
 2. **dataset/test.csv:** Test file without output labels (`price`). Generate predictions using your model/solution on this file's data and format the output file to match sample_test_out.csv

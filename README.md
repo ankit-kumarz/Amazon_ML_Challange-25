@@ -63,7 +63,7 @@ SMAPE = (1/n) * Σ |predicted_price - actual_price| / ((|actual_price| + |predic
 **Example:** If actual price = $100 and predicted price = $120 
 SMAPE = |100-120| / ((|100| + |120|)/2) * 100% = 18.18%
 
-**Note:** SMAPE is bounded between 0% and 200%. Lower values indicate better performance.
+**Note:** SMAPE is bounded between 0% and 200%. Lower values indicate better performance. 
 
 ### Leaderboard Information:
 

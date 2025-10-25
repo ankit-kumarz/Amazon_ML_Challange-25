@@ -74,7 +74,7 @@ SMAPE = |100-120| / ((|100| + |120|)/2) * 100% = 18.18%
 
 1. Upload a `test_out.csv` file in the Portal with the exact same formatting as `sample_test_out.csv`
 
-2. All participating teams must also provide a 1-page document describing: 
+2. All participating teams must also provide a 1-page document describing:  
    - Methodology used
    - Model architecture/algorithms selected
    - Feature engineering techniques applied

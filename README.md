@@ -25,7 +25,7 @@ The dataset consists of the following columns:
 The output file should be a CSV with 2 columns: 
 
 1. **sample_id:** The unique identifier of the data sample. Note the ID should match the test record sample_id.
-2. **price:** A float value representing the predicted price of the product.
+2. **price:** A float value representing the predicted price of the product. 
 
 Note: Make sure to output a prediction for all sample IDs. If you have less/more number of output samples in the output file as compared to test.csv, your output won't be evaluated.
 

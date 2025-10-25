@@ -48,7 +48,7 @@ Note: Make sure to output a prediction for all sample IDs. If you have less/more
 1. You will be provided with a sample output file. Format your output to match the sample output file exactly.  
 
 2. Predicted prices must be positive float values.
-
+ 
 3. Final model should be a MIT/Apache 2.0 License model and up to 8 Billion parameters. 
 
 ### Evaluation Criteria:

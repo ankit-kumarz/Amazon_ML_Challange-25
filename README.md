@@ -45,7 +45,7 @@ Note: Make sure to output a prediction for all sample IDs. If you have less/more
 
 ### Constraints:
 
-1. You will be provided with a sample output file. Format your output to match the sample output file exactly.  
+1. You will be provided with a sample output file. Format your output to match the sample output file exactly.   
 
 2. Predicted prices must be positive float values.
  

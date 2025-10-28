@@ -18,7 +18,7 @@ The dataset consists of the following columns:
 ### Dataset Details:
 
 - **Training Dataset:** 75k products with complete product details and prices
-- **Test Set:** 75k products for final evaluation
+- **Test Set:** 75k products for final evaluation 
 
 ### Output Format:
 

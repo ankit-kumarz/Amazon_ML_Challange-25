@@ -8,7 +8,7 @@ In e-commerce, determining the optimal price point for products is crucial for m
  
 The dataset consists of the following columns:  
  
-1. **sample_id:** A unique identifier for the input sample
+1. **sample_id:** A unique identifier for the input sample 
 2. **catalog_content:** Text field containing title, product description and an Item Pack Quantity(IPQ) concatenated. 
 3. **image_link:** Public URL where the product image is available for download. 
    Example link - https://m.media-amazon.com/images/I/71XfHPR36-L.jpg

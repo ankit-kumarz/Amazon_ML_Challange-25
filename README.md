@@ -64,7 +64,7 @@ SMAPE = (1/n) * Σ |predicted_price - actual_price| / ((|actual_price| + |predic
 SMAPE = |100-120| / ((|100| + |120|)/2) * 100% = 18.18%
 
 **Note:** SMAPE is bounded between 0% and 200%. Lower values indicate better performance.  
-
+ 
 ### Leaderboard Information:
 
 - **Public Leaderboard:** During the challenge, rankings will be based on 25K samples from the test set to provide real-time feedback on your model's performance.

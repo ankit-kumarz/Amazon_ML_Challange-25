@@ -13,7 +13,7 @@ The dataset consists of the following columns:
 3. **image_link:** Public URL where the product image is available for download. 
    Example link - https://m.media-amazon.com/images/I/71XfHPR36-L.jpg
    To download images use `download_images` function from `src/utils.py`. See sample code in `src/test.ipynb`.
-4. **price:** Price of the product (Target variable - only available in training data)
+4. **price:** Price of the product (Target variable - only available in training data) 
 
 ### Dataset Details:
 

@@ -78,7 +78,7 @@ SMAPE = |100-120| / ((|100| + |120|)/2) * 100% = 18.18%
    - Methodology used
    - Model architecture/algorithms selected
    - Feature engineering techniques applied
-   - Any other relevant information about the approach
+   - Any other relevant information about the approach 
    Note: A sample template for this documentation is provided in Documentation_template.md
 
 ### **Academic Integrity and Fair Play:** 

@@ -69,7 +69,7 @@ SMAPE = |100-120| / ((|100| + |120|)/2) * 100% = 18.18%
 - **Public Leaderboard:** During the challenge, rankings will be based on 25K samples from the test set to provide real-time feedback on your model's performance.
 - **Final Rankings:** The final decision will be based on performance on the complete 75K test set along with provided documentation of the proposed approach by the teams.
  
-### Submission Requirements: 
+### Submission Requirements:  
 
 1. Upload a `test_out.csv` file in the Portal with the exact same formatting as `sample_test_out.csv`
  

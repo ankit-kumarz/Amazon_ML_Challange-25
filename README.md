@@ -103,4 +103,4 @@ Participants are **STRICTLY NOT ALLOWED** to obtain prices from the internet, ex
 - Explore feature engineering techniques for text and image data
 - Consider ensemble methods combining different model types
 - Pay attention to outliers and data preprocessing 
- 
+  

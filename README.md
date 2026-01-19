@@ -64,7 +64,7 @@ SMAPE = |100-120| / ((|100| + |120|)/2) * 100% = 18.18%
 
 **Note:** SMAPE is bounded between 0% and 200%. Lower values indicate better performance.  
  
-### Leaderboard Information:
+### Leaderboard Information: 
 
 - **Public Leaderboard:** During the challenge, rankings will be based on 25K samples from the test set to provide real-time feedback on your model's performance.
 - **Final Rankings:** The final decision will be based on performance on the complete 75K test set along with provided documentation of the proposed approach by the teams.

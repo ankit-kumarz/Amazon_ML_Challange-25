@@ -27,7 +27,7 @@ The output file should be a CSV with 2 columns:
 2. **price:** A float value representing the predicted price of the product.   
 
 Note: Make sure to output a prediction for all sample IDs. If you have less/more number of output samples in the output file as compared to test.csv, your output won't be evaluated.
-
+ 
 ### File Descriptions:
  
 *Source files*
